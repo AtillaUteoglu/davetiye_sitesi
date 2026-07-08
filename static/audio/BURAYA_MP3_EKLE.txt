@@ -1,0 +1,4 @@
+Kendi düğün müziğini "dugun-muzik.mp3" adıyla bu klasöre eklersen
+site otomatik olarak bu dosyayı çalacaktır.
+
+Örnek: static/audio/dugun-muzik.mp3
